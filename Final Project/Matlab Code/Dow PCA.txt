@@ -1,0 +1,32 @@
+//DOW
+AA,AXP,BA,BAC,CAT,CSCO,CVX,DD,DIS,GE,HD,HPQ,IBM,INTC,JNJ,JPM,KO,MCD,MMM,MRK,MSFT,PFE,PG,T,TRV,UNH,UTX,VZ,WMT,XOM
+//NON-DOW
+AAPL,AMD,AMZN,ATVI,CMG,COST,DAL,DELL,FB,GOOG,HMC,LNKD,LUV,NVDA,RTN,S,STX,TGT,TM,V,WDC,YELP,YHOO
+
+finance.yahoo.com/d/quotes.csv?s=
+
+&f=sl1c1a2j1erp6p5j4m3m4
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+s //symbol
+l1 //last trade price
+c1 //price change
+a2 //average volume/day
+j1 //market cap
+e //eps
+r //P-E
+p6 //P-B
+p5 //P-S
+j4 //ebitda
+m3 //50-MDA
+m4 //200-MDA
+
+h //day's high
+g //day's low
+
+example: sl1d1t1c1ohgv&e
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+finance.yahoo.com/d/quotes.csv?s=AA,AXP,BA,BAC,CAT,CSCO,CVX,DD,DIS,GE,HD,HPQ,IBM,INTC,JNJ,JPM,KO,MCD,MMM,MRK,MSFT,PFE,PG,T,TRV,UNH,UTX,VZ,WMT,XOM,AAPL,AMD,AMZN,ATVI,CMG,COST,DAL,DELL,FB,GOOG,HMC,LNKD,LUV,NVDA,RTN,S,STX,TGT,TM,V,WDC,YELP,YHOO&f=sl1c1a2j1erp6p5j4m3m4
